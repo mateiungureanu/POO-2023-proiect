@@ -1,4 +1,4 @@
-# Cinema Project - C++ [![Build Status](https://github.com/mateiungureanu/OOP-CPPApp/actions/workflows/cmake.yml/badge.svg)](https://github.com/mateiungureanu/POO-2023-proiect/actions)
+# Cinema app - C++ [![Build Status](https://github.com/mateiungureanu/OOP-CPPApp/actions/workflows/cmake.yml/badge.svg)](https://github.com/mateiungureanu/POO-2023-proiect/actions)
 ## Programare Orientata pe Obiecte (2023-2024)
 
 - Programul reprezinta o interfata (in dezvoltare) pentru clienti si administratori deopotriva.
