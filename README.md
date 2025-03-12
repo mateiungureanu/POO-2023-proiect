@@ -37,12 +37,10 @@
 
 + `git clone https://github.com/mateiungureanu/POO-2023-proiect`
 + `cd POO-2023-proiect`
-+ `mkdir build`
-+ `cd build`
-+ `cmake ..`
-+ `cmake --build .`
-+ To run the app: `.\oop.exe`
-+ To run the tests: `.\test_oop.exe`
++ `cmake -S . -B build -DCMAKE_BUILD_TYPE=Debug -G Ninja`
++ `cmake --build build --config Debug --parallel 6`
++ To run the app: `.\build\oop.exe`
++ To run the tests: `.\build\test_oop.exe`
 
 ### How to use
 
