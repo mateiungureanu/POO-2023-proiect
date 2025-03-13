@@ -101,8 +101,6 @@ public:
         std::string tasta, cod_cinema, cod_film, cod_zi, cod_ora, cod_sala, nr_card, nume_titular, data_exp;
         std::map<std::string, std::string> credentials;
         addUser(credentials, "mateistefan", "qwertyuiop");
-        addUser(credentials, "dragosbahrim", "asdfghjkl");
-        addUser(credentials, "shatgepeto", "zxcvbnm");
         std::array<Cinema, 3> cinemauri{};
         cinemauri[0].setNumeMall("Afi Cotroceni");
         cinemauri[1].setNumeMall("Park Lake");
