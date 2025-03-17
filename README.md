@@ -13,7 +13,7 @@
 ### Description
 
 + Local application with an interactive terminal menu that updates based on user input and allows for returning back in case of an error. It utilizes OOP principles like polymorphism, multiple inheritance, abstract classes and templates, along with design patterns and exception handling. Integrated with GitHub Actions for CI/CD.
-+ It offers customers the option to buy one or more tickets for a screening by selecting the cinema, the movie, the day, the hour, and the seat, and allows administrators to add or remove a movie, update a movie's rating, and view the entire selection of movies.
++ It offers customers the option to buy one or more tickets for a screening by selecting the cinema, the movie, the day, the hour, and the seat, and allows administrators to add or remove a movie, to update a movie's rating, and to view the entire selection of movies.
 
 > **NOTE**
 > The app does **not** have a database. All data is lost upon program exit.
