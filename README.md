@@ -8,6 +8,7 @@
 + [How to use](#how-to-use)
   + [Customer Interface](#customer-interface)
   + [Admin Interface](#admin-interface)
++ [Pictures](#pictures)
 
 ### Description
 
@@ -52,3 +53,9 @@
 
 + Admin credentials: _mateistefan_, _qwertyuiop_
 + Follow the instructions on screen.
+
+### Pictures
+
+![Interface](pictures/poza_terminal_1.png)
+![Select seat](pictures/poza_terminal_2.png)
+![Add movie](poza_terminal_3.png)
